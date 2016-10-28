@@ -1,13 +1,21 @@
-raser.13@hotmail.com,
-bob,
-00001,
-090987987,
-0-980-98,
-poihih,
-srgw,
-weyhwerhgwhw,
-qergeqrgeqrg,
-q4wqwrgqw,
-12321354215,
-esdfh,
-dfgjhr
+### NOTE ##
+# This list is ONLY meant to be used as a test file to configure my fb3.py in the Pen-Testing repo
+# The idea was that you test the program on your OWN account
+# So to see hoe the software works - and if it is configured properly, put your own password
+# into a file like this, among a few other random scrambled characters in a list and watch as 
+# the program reaches your password in the list and cracks the account.
+# Remove all these comments if you use this but it is easy to make your own!
+## You then have to make the wordlists to run with the program - or try one of the others I have added
+
+bobandbill
+00001
+090987987
+0-980-98
+poihih98hj
+srgwiuhiuh
+weyhwerhgwhw
+qergeqrgeqrg
+q4wqwrgqw
+12321354215
+esdfhiuyi
+dfgjhryu
