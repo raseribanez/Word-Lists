@@ -5,7 +5,7 @@
 
 import time
 print ("---------------------------------------------------");
-print ("Welcome to BruteForce List Generator!");
+print ("Welcome to List Generator!");
 print ("---------------------------------------------------");
 print ("File output can be long, sometimes in x100Mbs!");
 print ("so, have patience fgt,");
